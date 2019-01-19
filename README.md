@@ -6,4 +6,4 @@ Analysis of product co-purchase data from Amazon. Poisson regression is used to 
 
 Screenshot:
 
-<img src="https://mpavlenk.github.io/Social-Network-Analysis/image.jpg" alt="social network">
+<img src="https://mpavlenk.github.io/Social-Network-Analysis/image.JPG" alt="social network">
